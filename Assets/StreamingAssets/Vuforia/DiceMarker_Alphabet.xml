@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Card_Z" size="5.000000 4.974359" />
+    <ImageTarget name="Card_Y" size="5.000000 5.000000" />
+    <ImageTarget name="Card_X" size="5.000000 5.025773" />
+    <ImageTarget name="Card_W" size="5.000000 5.025773" />
+    <ImageTarget name="Card_V" size="5.000000 5.000000" />
+    <ImageTarget name="Card_U" size="5.000000 5.000000" />
+    <ImageTarget name="Card_T" size="5.000000 5.000000" />
+    <ImageTarget name="Card_S" size="5.000000 4.974359" />
+    <ImageTarget name="Card_R" size="5.000000 5.025773" />
+    <ImageTarget name="Card_Q" size="5.000000 5.025773" />
+    <ImageTarget name="Card_P" size="5.000000 5.000000" />
+    <ImageTarget name="Card_O" size="5.000000 5.000000" />
+    <ImageTarget name="Card_N" size="5.000000 5.000000" />
+    <ImageTarget name="Card_M" size="5.000000 4.974359" />
+    <ImageTarget name="Card_L" size="5.000000 5.000000" />
+    <ImageTarget name="Card_K" size="5.000000 5.025773" />
+    <ImageTarget name="Card_J" size="5.000000 5.025773" />
+    <ImageTarget name="Card_I" size="5.000000 4.974359" />
+    <ImageTarget name="Card_H" size="5.000000 5.000000" />
+    <ImageTarget name="Card_G" size="5.000000 5.000000" />
+    <ImageTarget name="Card_F" size="5.000000 5.000000" />
+    <ImageTarget name="Card_E" size="5.000000 5.025773" />
+    <ImageTarget name="Card_D" size="5.000000 5.025773" />
+    <ImageTarget name="Card_C" size="5.000000 4.974359" />
+    <ImageTarget name="Card_B" size="5.000000 5.000000" />
+    <ImageTarget name="Card_A" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
