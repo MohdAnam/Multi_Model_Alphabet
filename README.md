@@ -5,7 +5,7 @@
 - This app was created to introduce into the classroom vocabulary related to everyday objects that are not typically covered in a single alphabet model chart. 
 - This app aims to broaden children's vocabulary and assist them in understanding the sounds of each alphabet. Because each alphabet has words that begin with the same     sound, it aids the child in decoding the pattern and discovering the relationship between written letters (graphemes) and the sounds they represent (phonemes).
 
-# Screenshots
+# Steps to start the application:
  <figcaption> Menu page with an option to scan charts and cube markers.</figcaption>
 <img src="https://user-images.githubusercontent.com/98106477/199455603-5a1aeebd-a33f-4836-a9a5-6430a60214d3.jpg"  width="900" height="400">
  <figcaption> Clicking on the‘CARD & CUBE’ and ‘CHART’ button loads the next page where the camera is launched to scan for markers.</figcaption>
@@ -43,6 +43,21 @@
    
   </tr>
  </table>
+ 
+ # Use in classroom(Activity & Outcome)
+- Recognize initial letters with similar sounds.
+- Recognize the phonic sound of each alphabet.
+- Sort words based on their initial sounds.
+- Can combine sounds to produce new words.
+- Begins to connect a letter to a sound, for example, writes M to represent Monkey.
+- Recognises and identifies a few letters by name, for example, points to letter B in a book and says that’s the same as my name.
+- Recognize some words that are frequently encountered in the environment.
+- Can name objects in their surroundings.
+- Understand that words are made up of letters and every word has a first and last letter.
+- Texts have features like pictures, print size, colour, font, or bolding that help to clarify messages.
+- Recognize environmental print automatically.
+- There is a relationship between written letters (graphemes) and the sounds they represent (phonemes).
+
 
 
 # Demo Video Link
