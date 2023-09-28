@@ -61,7 +61,7 @@
 
 
 # Demo Video Link
-[https://youtube.com/shorts/L46FUfXXyek](https://youtu.be/x0USZmIfWXg)
+https://www.youtube.com/watch?v=x0USZmIfWXg
  
  # Testing
  We worked with students and teachers of CSC Bal Vidyalaya to test the prototype apps and collected the feedback to improve the prototypes.
